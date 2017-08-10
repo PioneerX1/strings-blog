@@ -1,0 +1,13 @@
+<li>
+  <div class="thumbnail">
+    <div class="row">
+      <div class="col-xs-4">
+        <img src={{blogpost.image}} height=100% width=100% alt={{blogpost.title}}>
+      </div>
+      <div class="col-xs-8">
+        <h4>{{blogpost.title}}</h4><em>by: {{blogpost.author}}</em><br>
+        {{truncate-text blogpost.content limit=200}}
+      </div>
+    </div>
+  </div>
+</li>

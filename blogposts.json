@@ -1,0 +1,17 @@
+{ "blogposts": [{
+    "author": "Mick",
+    "title": "Early National Steel Guitars",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "http://www.nationalguitar.com/admin/media/vintage_nationals/DSCN5263.jpg"
+  }, {
+    "author": "Mick",
+    "title": "Photage of Ragtime Banjo Players",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://medleyana.files.wordpress.com/2013/12/smyser.jpg"
+  }, {
+    "author": "Mick",
+    "title": "Recordings of Sol Hoopii on Electric Lap Steel",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Sol_Ho%CA%BBopi%CA%BBi.jpg"
+    }]
+  }

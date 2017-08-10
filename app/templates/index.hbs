@@ -1,0 +1,7 @@
+<h3>Welcome to the Home Page!</h3>
+
+<ul>
+  {{#each model.blogposts as |blogpost|}}
+    {{blogpost-preview blogpost=blogpost}}
+  {{/each}}
+</ul>

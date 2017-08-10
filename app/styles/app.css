@@ -5,3 +5,7 @@
   grid-gap: 75px;
   background-color: lightblue;
 }
+
+ul {
+  list-style-type: none;
+}
