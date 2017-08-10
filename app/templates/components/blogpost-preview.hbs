@@ -1,5 +1,6 @@
 <li>
   <div class="thumbnail">
+    {{#link-to 'blogpost' blogpost.id}}
     <div class="row">
       <div class="col-xs-4">
         <img src={{blogpost.image}} height=100% width=100% alt={{blogpost.title}}>
@@ -9,5 +10,6 @@
         {{truncate-text blogpost.content limit=200}}
       </div>
     </div>
+    {{/link-to}}
   </div>
 </li>
