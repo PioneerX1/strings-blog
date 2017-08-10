@@ -5,4 +5,7 @@
 <br><br>
 <p>{{blogpost.content}}</p>
 <br>
+{{update-blogpost blogpost=blogpost update="update"}}
+
+<br>
 <button class="btn btn-danger" {{action 'deletePost' blogpost}}>Delete BlogPost</button>
