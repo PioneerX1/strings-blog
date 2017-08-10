@@ -1,0 +1,7 @@
+.nav-list {
+  display: grid;
+  grid-template-columns: 0px 20px 20px 0px;
+  grid-template-rows: 5px;
+  grid-gap: 75px;
+  background-color: lightblue;
+}
