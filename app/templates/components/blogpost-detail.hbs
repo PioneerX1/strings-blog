@@ -4,3 +4,5 @@
 <img src={{blogpost.image}} alt={{blogpost.title}} height=300 width=300>
 <br><br>
 <p>{{blogpost.content}}</p>
+<br>
+<button class="btn btn-danger" {{action 'deletePost' blogpost}}>Delete BlogPost</button>
