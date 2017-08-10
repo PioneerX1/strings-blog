@@ -1,9 +1,11 @@
 .nav-list {
   display: grid;
-  grid-template-columns: 0px 20px 20px 0px;
+  /*grid-template-columns: 0px 20px 20px 20px 20px;
   grid-template-rows: 5px;
-  grid-gap: 75px;
-  background-color: lightblue;
+  grid-gap: 65px;*/
+  /*background-color: lightblue;*/
+  padding-left: 0px;
+
 }
 
 ul {

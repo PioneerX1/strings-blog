@@ -2,16 +2,18 @@
   <header class="jumbotron">
     <h1>The String Blog</h1>
   </header>
-  <nav class="nav navbar">
-    <div class="container nav-list">
-      <h3>{{#link-to 'index'}}Home{{/link-to}}</h3>
-      <h3>{{#link-to 'about'}}About{{/link-to}}</h3>
-      <h3>{{#link-to 'contact'}}Contact{{/link-to}}</h3>
-    </div>
-  </nav>
+
   <div class="container">
     <div class="row">
       <div class="col-xs-2">
+        <nav class="nav navbar">
+          <div class="container nav-list">
+            <h3>{{#link-to 'index'}}Home{{/link-to}}</h3>
+            <h3>{{#link-to 'about'}}About{{/link-to}}</h3>
+            <h3>{{#link-to 'contact'}}Contact{{/link-to}}</h3>
+            <h3>{{#link-to 'new-post'}}Post{{/link-to}}</h3>
+          </div>
+        </nav>
       </div>
       <div class="col-xs-8">
         {{outlet}}

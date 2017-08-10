@@ -1,0 +1,19 @@
+<form>
+  <div class="form-group">
+    <label for="author">Author's Name: </label>
+    {{input value=author id="author"}}
+  </div>
+  <div class="form-group">
+    <label for="title">Title for Post: </label>
+    {{input value=title id="title"}}
+  </div>
+  <div class="form-group">
+    <label for="image">Link for Image: </label>
+    {{input value=image id="image"}}
+  </div>
+  <div class="form-group">
+    <label for="content">Article Content: </label>
+    {{input value=content id="content"}}
+  </div><br>
+  <button class="btn"{{action 'savePost'}}>Create Blogpost</button>
+</form>
